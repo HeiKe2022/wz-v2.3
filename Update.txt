@@ -1,0 +1,20 @@
+                                                         Version 2.3
+
+Kill Aura 
+Pet Skill
+Auto Farm
+Collect Drops
+LED head lamp
+Infinite Jump
+Sprint Speed
+WarLord:
+Added autoFarm on a straight line instead circle mobs
+MageofLight:
+Pointer Aura (attack where your cursor pointed. Point to the lower section like foot is most effective)
+Passive skill heal and add barrier to all players in the server
+Summoner:
+Summons add distance checker to be close enough to explode (summoned soldiers pos vs mob pos)
+Added game menu ( see tab on left )
+
+Fixed tower some area will not auto next scene
+Summoner added explode distance so it will explode more
